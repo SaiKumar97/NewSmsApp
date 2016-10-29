@@ -1,2 +1,2 @@
 # NewSmsApp
-Yet another app to simpify life :-)
+Yet another app to simplify life :-)
