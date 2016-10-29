@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="Fields">
+        <item>Write Message</item>
+        <item>Inbox</item>
+
+    </string-array>
+</resources>
